@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/binodcoder-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/binodcoder-portfolio/static/js/main.f56f8d13.js",
+    "static/js/488.8698a12f.chunk.js": "/binodcoder-portfolio/static/js/488.8698a12f.chunk.js",
+    "static/media/logo.svg": "/binodcoder-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/binodcoder-portfolio/index.html",
+    "main.f855e6bc.css.map": "/binodcoder-portfolio/static/css/main.f855e6bc.css.map",
+    "main.f56f8d13.js.map": "/binodcoder-portfolio/static/js/main.f56f8d13.js.map",
+    "488.8698a12f.chunk.js.map": "/binodcoder-portfolio/static/js/488.8698a12f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f56f8d13.js"
+  ]
+}
